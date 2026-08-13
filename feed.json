@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Guy In Garage Studios Official",
+    "description": "",
+    "home_page_url": "https://guyingarage.github.io/guyingarage.github.io",
+    "feed_url": "https://guyingarage.github.io/guyingarage.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jane Johnnington"
+    },
+    "items": [
+    ]
+}
